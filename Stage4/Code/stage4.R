@@ -257,19 +257,3 @@ fviz_cluster(kmeans_result,
   geom_point(aes(color = combined_data$IDH.status)) + 
   labs(color = "IDH Status") +  # Label for the legend
   scale_color_manual(values = c("Mutant" = "blue", "WT" = "red"))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
