@@ -2,9 +2,9 @@
 
 Authors (@slack): Manal Agdada (@Manal), Pascal Onaho (@PascalOnaho), Rahma Nabil Sallam (@rahmanabil2002), Hagar Haitham Elazab (@HBONH33), Salma ismail (@Salmaismail28), Idahosa Clinton (@doc_Idahosa), YaraHaitham (@YaraHaitham), Izuchukwu Obilom (@Zucchini)
 
-Github Link: [https://github.com/manal-agdada/Stage-2---HackBio-internship-](https://github.com/manal-agdada/HackBio-internship/edit/main/Stage2/Report/stage2.md)
+Github Link: https://github.com/manal-agdada/HackBio-internship/blob/main/Stage2/Report/stage2.md
 
-Code link: [https://github.com/manal-agdada/Stage-2---HackBio-internship-/blob/main/stage2.R](https://github.com/manal-agdada/HackBio-internship/blob/main/Stage2/Code/stage2.R)
+Code link: https://github.com/manal-agdada/HackBio-internship/blob/main/Stage2/Code/stage2.R
 
 ## Software used for analysis
 
