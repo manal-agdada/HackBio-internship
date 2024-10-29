@@ -4,7 +4,7 @@
 
 **R script:** https://github.com/manal-agdada/Stage-4---HackBio-internship/blob/main/Code/stage4_script.R
 
-**Figures:** https://github.com/manal-agdada/Stage-4---HackBio-internship/tree/main/Figures
+**Figures:** https://github.com/manal-agdada/HackBio-internship/tree/main/Stage4/Figures
 
 ## Introduction 
 Gliomas are the most common malignant brain tumors, classified into low-grade gliomas (LGG) and glioblastoma (GBM) [1]. Isocitrate dehydrogenase (IDH) mutations are key prognostic markers, as IDH-mutant gliomas have better prognoses and distinct molecular characteristics compared to IDH-wildtype tumors [2]. IDH-mutant gliomas are associated with a hypermethylation phenotype and tend to have more favorable outcomes [2]. In contrast, IDH-wildtype gliomas exhibit more aggressive behavior [2]. Therefore, methylation patterns in gliomas can serve as a valuable tool for molecular and clinical classification of gliomas [2].
