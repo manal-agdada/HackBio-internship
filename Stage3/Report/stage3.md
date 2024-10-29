@@ -2,7 +2,7 @@
 
  **Authors:** Manal Agdada (@Manal), Ojiaku Confidence Chisom (@Areta), Abdulrahman Walid Elbagoury (@Willeau), Rahma Nabil Sallam (@rahmanabil2002), Pascal Onaho (@PascalOnaho), Hagar Haitham Elazab (@HBONH33), Mercy Francis (@Mercylee), Ariyo Adesokan (@Adesokan_ariyo1)
 
-**R script:** https://github.com/Onaho-Pascal/Hackbio-Stage-three-Task-4-/blob/main/Code/stage3_script.R
+**R script:** https://github.com/manal-agdada/HackBio-internship/blob/main/Stage3/Code/stage3.R
 
 **Figures:** https://github.com/Onaho-Pascal/Hackbio-Stage-three-Task-4-/tree/main/Figures
 
